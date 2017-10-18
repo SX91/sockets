@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['onconnect',['onConnect',['../class_t_c_p_socket_handler.html#aa708fed1c6b3aba597996a02a321ee13',1,'TCPSocketHandler']]],
+  ['onconnectionpending',['onConnectionPending',['../class_i_connection_handler.html#a202e9de6e98ee8a5558e8afbe32ebdc8',1,'IConnectionHandler']]],
+  ['ondisconnect',['onDisconnect',['../class_t_c_p_socket_handler.html#a4c8fbbd426ab9b736f0c69884707d6cf',1,'TCPSocketHandler']]],
+  ['onerror',['onError',['../class_i_handler.html#a470443f471c0c09f737b724dd1dcb3e6',1,'IHandler']]],
+  ['oneshot',['oneshot',['../class_poll_opt.html#ad81f02ccca3bc47d7feca843ec9a9f16',1,'PollOpt']]],
+  ['onreadready',['onReadReady',['../class_i_handler.html#a4fb7756185739e062962fb7f854adcb4',1,'IHandler']]],
+  ['operator_2a',['operator*',['../class_poll_opt.html#ac31e6d473b1940d5eec7b9461f2982a3',1,'PollOpt']]],
+  ['operator_3c_3c',['operator&lt;&lt;',['../_reactor_8h.html#a45282f9bcf7cbd4d8937f92c6ac06b4b',1,'operator&lt;&lt;(std::ostream &amp;os, const Event &amp;rhs):&#160;Reactor.cpp'],['../_reactor_8cpp.html#a45282f9bcf7cbd4d8937f92c6ac06b4b',1,'operator&lt;&lt;(std::ostream &amp;os, const Event &amp;rhs):&#160;Reactor.cpp']]],
+  ['operator_3d',['operator=',['../class_base_socket.html#a6e4f7c1dca2bcd80b8056eeff3d91be6',1,'BaseSocket::operator=(const BaseSocket &amp;)=delete'],['../class_base_socket.html#a5a10bb6206be175abde09e48e861049c',1,'BaseSocket::operator=(BaseSocket &amp;&amp;rhs) noexcept'],['../class_socket_error.html#a0ae61fd19a1e2a5e32e5bf027d0e232e',1,'SocketError::operator=(const SocketError &amp;)=default'],['../class_socket_error.html#a6f513a09d57276ad4b5a7827ba2192d1',1,'SocketError::operator=(SocketError &amp;&amp;)=default'],['../class_abstract_handler.html#a128755d8e46c74fede247ac9ab38f1aa',1,'AbstractHandler::operator=(const AbstractHandler &amp;)=default'],['../class_abstract_handler.html#a29f754ba9236a678ada5bc43ac1d9a9c',1,'AbstractHandler::operator=(AbstractHandler &amp;&amp;)=default'],['../class_t_c_p_socket_handler.html#aa96ab600f2ed042fab266635491a74cc',1,'TCPSocketHandler::operator=()'],['../class_ready.html#a652755b8c5866d89d5ed2c957f4b0726',1,'Ready::operator=(const Ready &amp;)=default'],['../class_ready.html#aa18e32fa11526ce5245ac32436391db3',1,'Ready::operator=(Ready &amp;&amp;)=default'],['../class_reactor.html#a58e58c1ce07e8f12a0d1de28bbe4fb41',1,'Reactor::operator=()'],['../class_socket_address.html#a17848926c2001219a55467396fda21aa',1,'SocketAddress::operator=(const SocketAddress &amp;)=default'],['../class_socket_address.html#a8bc143c4b41056a55c0c9b93e2813727',1,'SocketAddress::operator=(SocketAddress &amp;&amp;)=default']]],
+  ['operator_3d_3d',['operator==',['../class_socket_address.html#af4c4c5f58afa087a71d99019b8dd63d1',1,'SocketAddress']]],
+  ['operator_7c',['operator|',['../class_ready.html#acfd801f5676fa1884d3b0c57cb391480',1,'Ready::operator|()'],['../class_poll_opt.html#a0ac7b55bcda372529e46da74b7675ccc',1,'PollOpt::operator|()']]],
+  ['operator_7c_3d',['operator|=',['../class_ready.html#ab1f647263605eef860728787ccc4c784',1,'Ready::operator|=()'],['../class_poll_opt.html#ac34250dcd97c763f74df785f3d0258df',1,'PollOpt::operator|=()']]]
+];

@@ -1,0 +1,4 @@
+<map id="BaseSocket" name="BaseSocket">
+<area shape="rect" id="node2" href="$class_t_c_p_socket.html" title="TCPSocket" alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node3" href="$class_u_d_p_socket.html" title="UDPSocket" alt="" coords="121,80,213,107"/>
+</map>

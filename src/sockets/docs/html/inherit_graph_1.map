@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_connection_handler.html" title="IConnectionHandler" alt="" coords="323,5,460,32"/>
+<area shape="rect" id="node2" href="$class_t_c_p_server_handler.html" title="TCPServerHandler" alt="" coords="508,31,640,57"/>
+<area shape="rect" id="node3" href="$class_i_event_handler.html" title="IEventHandler" alt="" coords="5,56,111,83"/>
+<area shape="rect" id="node4" href="$class_abstract_handler.html" title="AbstractHandler" alt="" coords="159,81,275,108"/>
+<area shape="rect" id="node5" href="$class_t_c_p_socket_handler.html" title="TCPSocketHandler" alt="" coords="324,56,459,83"/>
+<area shape="rect" id="node6" href="$class_u_d_p_socket_handler.html" title="UDPSocketHandler" alt="" coords="323,107,460,133"/>
+<area shape="rect" id="node7" href="$class_i_handler.html" title="IHandler" alt="" coords="23,107,93,133"/>
+</map>
